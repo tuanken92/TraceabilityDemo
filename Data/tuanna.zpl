@@ -1,0 +1,6 @@
+﻿^XA
+^FO20,50
+^BQN,2,4
+^FDQA,tuanna^FS
+^PQ2
+^XZ
